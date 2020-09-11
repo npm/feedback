@@ -2,6 +2,8 @@
 
 In this repository, you can find the [official npm public product roadmap](https://github.com/npm/roadmap/projcts/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you.
 
+This roadmap is heavily influenced by the [official GitHub public product roadmap](https://github.com/github/roadmap). Thank you to the team who worked on that for paving the path!
+
 ## Making suggestions
 
 We encourage you to [open a discussion](https://github.com/npm/roadmap/discussions) if you have suggestions for how we can improve npm. You don't need to have a solution to the problem you are facing to kick off a discussion. Please check out [how to give good feedback](https://github.com/npm/roadmap/discussions/7) if you want some guidance on how to kick off a successful discussion.
