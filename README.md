@@ -2,7 +2,7 @@
 
 > Current Status: Private Alpha
 
-In this repository, you can find the [official npm public product roadmap](https://github.com/npm/roadmap/projcts/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you.
+In this repository, you can find the [official npm public product roadmap](https://github.com/npm/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you.
 
 This roadmap is heavily influenced by the [official GitHub public product roadmap](https://github.com/github/roadmap). Thank you to the team who worked on that for paving the path!
 
@@ -54,7 +54,7 @@ Some of our features may still be in the exploratory stages, and have no timefra
 
 ## Roadmap stages
 
-The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next. Be sure to read the [disclaimer](#disclaimer) below since the roadmap is subject to change, especially further out on the timeline.  You'll also find an **Exploratory** column, which is used in conjunction with the **in design** and **exploring** release phase labels for when no timeframe is yet available.
+The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next. Be sure to read the [disclaimer](#disclaimer) below since the roadmap is subject to change, especially further out on the timeline.  You'll also find an **Future** column, which is used in conjunction with the **in design** and **exploring** release phase labels for when no timeframe is yet available.
 
 ## Feature Areas
 
