@@ -17,11 +17,15 @@ Please keep this in mind when engaging in this repo. If you would like to have s
 
 We encourage you to [open a discussion](https://github.com/npm/roadmap/discussions) if you have suggestions for how we can improve npm. You don't need to have a solution to the problem you are facing to kick off a discussion. Please check out [how to give good feedback](https://github.com/npm/roadmap/discussions/7) if you want some guidance on how to kick off a successful discussion.
 
+Prior to making a new discussion please take a look at previous discussions to see if someone else has already brought to our attention your suggestions. Duplicate discussion will be closed, referring back to the earliest discussion opened.
+
 ### From a suggestion to a shipped feature
 
 Once you kick off a discussion the npm team will do our best to respond within 7 days. From there we will work with you to ensure we understand the problem you are facing and explore the space for potential solutions.
 
-If the npm team determines that we 
+If the npm team determines that we are going to prioritize a feature to solve the problem you've identified we will open an issue and track it's development in the public roadmap.
+
+If the npm team determines that we will not be working to solve the problem you have identified we will open an issue describing our reasoning so our decisions can remain transparent.
 
 ## Guide to the roadmap
 
