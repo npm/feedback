@@ -1,8 +1,17 @@
 # npm public roadmap
 
+> Current Status: Private Alpha
+
 In this repository, you can find the [official npm public product roadmap](https://github.com/npm/roadmap/projcts/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you.
 
 This roadmap is heavily influenced by the [official GitHub public product roadmap](https://github.com/github/roadmap). Thank you to the team who worked on that for paving the path!
+
+## About the Private Alpha
+
+***Our intent is to make this repository public on October 6th***
+
+Please keep this in mind when engaging in this repo. If you would like to have something moderated or edited please ping
+@MylesBorins or @ethomson with your request.
 
 ## Making suggestions
 
