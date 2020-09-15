@@ -4,6 +4,8 @@
 
 In this repository, you can find the [official npm public product roadmap](https://github.com/npm/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you.
 
+The roadmap repository is for communicating npm’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Please check out [Making Suggestion](#making-suggestions) to learn how to provide feedback via [github discussions](https://github.com/npm/roadmap/discussions).
+
 This roadmap is heavily influenced by the [official GitHub public product roadmap](https://github.com/github/roadmap). Thank you to the team who worked on that for paving the path!
 
 ## About the Private Alpha
