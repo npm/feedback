@@ -6,7 +6,7 @@ In this repository, you can find the [official npm public product roadmap](https
 
 Issues will be created for features and work items we are tracking on our roadmap. Issues are read-only and locked on creation. Please check out [Making Suggestion](#making-suggestions) to learn how to provide feedback via [GitHub Discussions](https://github.com/npm/roadmap/discussions).
 
-There is currently no way to create an issue on this repo using he GitHub UI, this is intentional. We are aware that you can still use the GitHub API to open new issues. While we can't stop you from doing this, the npm team will consider this a violation of the code-of-conduct and ban your GitHub account from the npm org.
+There is currently no way to create an issue on this repo using the GitHub UI, this is intentional. We are aware that you can still use the GitHub API to open new issues. While we can't stop you from doing this, the npm team will consider this a violation of the code-of-conduct and ban your GitHub account from the npm org.
 
 This roadmap is heavily influenced by the [official GitHub public product roadmap](https://github.com/github/roadmap). Thank you to the team who worked on that for paving the path!
 
@@ -21,7 +21,7 @@ Please keep this in mind when engaging in this repo. If you would like to have s
 
 We encourage you to [open a discussion](https://github.com/npm/roadmap/discussions) if you have suggestions for how we can improve npm. You don't need to have a solution to the problem you are facing to kick off a discussion. Please check out [how to give good feedback](https://github.com/npm/roadmap/discussions/7) if you want some guidance on how to kick off a successful discussion.
 
-Prior to making a new discussion please take a look at previous discussions to see if someone else has already brought to our attention your suggestions. Duplicate discussion will be closed, referring back to the earliest discussion opened.
+Prior to making a new discussion please take a look at previous discussions to see if someone else has already brought to our attention your suggestions. Duplicate discussion will be answered referring back to the earliest discussion still open or an issue that has the teams response.
 
 ### From a suggestion to a shipped feature
 
