@@ -32,7 +32,7 @@ jobs:
               repo: context.repo.repo,
               username: creator
             });
-            if (response.data.permission === 'none') {
+            if (response.data.permission === 'none' || response.data.permission === 'read') {
               github.issues.update({
                 issue_number: ${{ github.event.issue.number }},
                 owner: context.repo.owner,
