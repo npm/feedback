@@ -47,7 +47,7 @@ Every product or feature goes through a set of release phases, from early testin
 * **beta**: *Publicly available in full or limited capacity*
   Features mostly complete and documented. Timeline and requirements for GA usually published. No SLAs or support provided.
 * **ga**: *Generally available to all customers*
-  Ready for production use with associated SLA and technical support obligations. Approximately 1-2 quarters from Beta.
+  Ready for production use with associated SLA and technical support obligations.
 
 Some of our features may still be in the exploratory stages, and have no timeframe available. These are included in the roadmap only for early feedback. These are marked as follows:
 
