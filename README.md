@@ -66,6 +66,7 @@ The following is a list of our current product areas:
 
 - **cli:** The npm command line utility
 - **documentation:** The npm documentation
+- **meta:** The npm process
 - **registry:** The npm registry
 - **website:** The npm website
 
