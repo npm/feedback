@@ -10,7 +10,9 @@ There is currently no way to create an issue on this repo following the default 
 
 This roadmap is heavily influenced by the [official GitHub public product roadmap](https://github.com/github/roadmap). Thank you to the team who worked on that for paving the path!
 
-## About the Private Alpha
+## About the Private Beta Prview
+
+Please see our [github terms of service beta preview policy](https://docs.github.com/en/github/site-policy/github-terms-of-service#j-beta-previews).
 
 ***Our intent is to make this repository public on October 6th***
 
