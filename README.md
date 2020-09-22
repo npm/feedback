@@ -4,7 +4,7 @@
 
 In this repository, you can find the [official npm public product roadmap](https://github.com/npm/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. This roadmap covers every part of npm including the cli, documentation, the registry, and the website.
 
-Issues will be created for features and work items we are tracking on our roadmap. Issues are read-only and locked on creation. Please check out [Making Suggestion](#making-suggestions) to learn how to provide feedback via [GitHub Discussions](https://github.com/npm/roadmap/discussions).
+Issues will be created for features and work items we are tracking on our roadmap. Issues are read-only and locked on creation. Please check out [Making Suggestions](#making-suggestions) to learn how to provide feedback via [GitHub Discussions](https://github.com/npm/roadmap/discussions).
 
 There is currently no way to create an issue on this repo following the default flow of the GitHub UI, this is intentional. We are aware that you can still open new issues with a bit of creativity. While we can't stop you from doing this, the npm team will consider this a violation of the code-of-conduct and you will be at risk of being banned from the npm organization.
 
