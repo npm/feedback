@@ -6,7 +6,7 @@ In this repository, you can find the [official npm public product roadmap](https
 
 Issues will be created for features and work items we are tracking on our roadmap. Issues are read-only and locked on creation. Please check out [Making Suggestions](#making-suggestions) to learn how to provide feedback via [GitHub Discussions](https://github.com/npm/roadmap/discussions).
 
-There is currently no way to create an issue on this repo following the default flow of the GitHub UI, this is intentional. We are aware that you can still open new issues with a bit of creativity. While we can't stop you from doing this, the npm team will consider this a violation of the code-of-conduct and you will be at risk of being banned from the npm organization.
+There is currently no way to create an issue on this repo following the default flow of the GitHub UI, this is intentional. We are aware that you can still open new issues with a bit of creativity. While we can't stop you from doing this, the npm team will consider this a violation of the code-of-conduct. Issues opened by unauthorized individuals are automatically closed and locked by a GitHub action and additional moderation actions may be taken by the team including banning individuals from the npm organization.
 
 This roadmap is heavily influenced by the [official GitHub public product roadmap](https://github.com/github/roadmap). Thank you to the team who worked on that for paving the path!
 
@@ -21,17 +21,16 @@ Please keep this in mind when engaging in this repo. If you would like to have s
 
 ## Making suggestions
 
-We encourage you to [open a discussion](https://github.com/npm/roadmap/discussions) if you have suggestions for how we can improve npm. You don't need to have a solution to the problem you are facing to kick off a discussion. Please check out [how to give good feedback](https://github.com/npm/roadmap/discussions/7) if you want some guidance on how to kick off a successful discussion.
+We encourage you to [open a discussion](https://github.com/npm/roadmap/discussions) if you have suggestions for how we can improve npm. You don't need to have a solution to the problem you are facing to kick off a discussion. We are hoping to foster productive and collaborative conversations, so please check out [how to give good feedback](https://github.com/npm/roadmap/discussions/7) if you want some guidance on how to kick off a successful discussion.
 
-Prior to making a new discussion please take a look at previous discussions to see if someone else has already brought to our attention your suggestions. Duplicate discussion will be answered referring back to the earliest discussion still open or an issue that has the teams response.
+Prior to making a new discussion please take a look at previous discussions to see if someone else has already brought to our attention your suggestions. Duplicate discussion will be answered referring back to the earliest unanswered discussion or an issue that has the teams response.
 
 ### From a suggestion to a shipped feature
 
-Once you kick off a discussion the npm team will do our best to make an initial response within 7 days. From there we will work with you, and the entire community, to ensure we understand the problem you are facing and explore the space for potential solutions.
+Once you kick off a discussion the npm team will do our best to make an initial response within 7 days. From there we will work with you, and the entire community, to ensure we understand the problem you are facing and explore the space for potential solutions:
 
-If the npm team determines that we are going to prioritize a feature to solve the problem you've identified we will open an issue and track it's development in the public roadmap.
-
-If the npm team determines that we will not be working to solve the problem you have identified we will open an issue describing our reasoning so our decisions can remain transparent.
+* If the npm team determines that we are going to prioritize a feature to solve the problem you've identified we will open an issue and track it's development in the public roadmap.
+* If the npm team determines that we will not be working to solve the problem you have identified we will open an issue describing our reasoning so our decisions can remain transparent.
 
 ## Guide to the roadmap
 
