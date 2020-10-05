@@ -10,15 +10,6 @@ There is currently no way to create an issue on this repo following the default 
 
 This roadmap is heavily influenced by the [official GitHub public product roadmap](https://github.com/github/roadmap). Thank you to the team who worked on that for paving the path!
 
-## About the Private Beta Prview
-
-Please see our [github terms of service beta preview policy](https://docs.github.com/en/github/site-policy/github-terms-of-service#j-beta-previews).
-
-***Our intent is to make this repository public on October 6th***
-
-Please keep this in mind when engaging in this repo. If you would like to have something moderated or edited please ping
-@MylesBorins or @ethomson with your request.
-
 ## Making suggestions
 
 We encourage you to [open a discussion](https://github.com/npm/roadmap/discussions) if you have suggestions for how we can improve npm. You don't need to have a solution to the problem you are facing to kick off a discussion. We are hoping to foster productive and collaborative conversations, so please check out [how to give good feedback](https://github.com/npm/roadmap/discussions/7) if you want some guidance on how to kick off a successful discussion.
