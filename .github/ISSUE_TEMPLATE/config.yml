@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Make a suggestion
-    url: https://github.com/npm/roadmap/discussions/
+    url: https://github.com/npm/feedback/discussions/
     about: Have an idea for npm? Open a discussion!
   - name: npm CLI RFC
     url: https://github.com/npm/rfcs
