@@ -1,6 +1,6 @@
 # npm public feedback discussions
 
-> Current Status: Private Beta Preview
+> Current Status: Public Beta
 
 In this repository, you can find the [official npm public feedback discussions](https://github.com/npm/feedback/discussions) for every part of npm including the cli, documentation, the registry, and the website.
 
