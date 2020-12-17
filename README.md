@@ -19,7 +19,7 @@ Prior to making a new discussion please take a look at previous discussions to s
 Once you kick off a discussion, the npm team will do our best to make an initial response within seven days. From there, we will work with you (and the entire community) to ensure we understand the current capabilities npm is missing and explore the space for potential solutions to your problem statement:
 
 - If the npm team determines that we are going to prioritize a feature to solve the problem that you've identified, we will open an issue and track its development in the public roadmap. 
-- If the npm team determines not to pursue the problem that you have identified, we will open an issue describing our reasoning so our decisions can remain transparent.
+- If the npm team determines not to pursue the problem that you have identified, we will respond to the discussion with our reasoning so our decisions can remain transparent.
 
 ## Disclaimer 
 
