@@ -1,7 +1,5 @@
 # npm public feedback discussions
 
-> Current Status: Public Beta
-
 In this repository, you can find the [official npm public feedback discussions](https://github.com/npm/feedback/discussions) for every part of npm including the cli, documentation, the registry, and the website.
 
 These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the npm product team. Check out [Making Suggestions](#making-suggestions) to learn how to provide feedback.
