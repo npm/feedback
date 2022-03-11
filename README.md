@@ -14,10 +14,14 @@ Prior to making a new discussion please take a look at previous discussions to s
 
 ### From a suggestion to a shipped feature
 
-Once you kick off a discussion, the npm team will do our best to make an initial response within seven days. From there, we will work with you (and the entire community) to ensure we understand the current capabilities npm is missing and explore the space for potential solutions to your problem statement:
+Once you kick off a discussion, the npm team will do our best to make an initial response within 14 days. From there, we will work with you (and the entire community) to ensure we understand the current capabilities npm is missing and explore the space for potential solutions to your problem statement:
 
-- If the npm team determines that we are going to prioritize a feature to solve the problem that you've identified, we will open an issue and track its development in the public roadmap. 
-- If the npm team determines not to pursue the problem that you have identified, we will respond to the discussion with our reasoning so our decisions can remain transparent.
+- If the npm team determines that we are going to prioritize a feature to solve the problem that you've identified, we will mark the discussion as answered and update it periodically on the progress of the feature. 
+- If the npm team determines not to pursue the problem that you have identified, we will mark the discussion as answered and will respond with our reasoning so our decisions can remain transparent.
+
+### npm CLI changes and the RFC (Request for Comment) process
+
+The majority of feature requests for changes to the npm CLI will be directed towards [the npm CLI RFC process](https://github.com/npm/rfcs). Often it may make sense to simply open a [RRFC](https://github.com/npm/rfcs/issues/new?assignees=&labels=&template=rrfc.md&title=%5BRRFC%5D+%3Ctitle%3E) rather than a discussion in this repostiory.
 
 ## Disclaimer 
 
