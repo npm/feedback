@@ -1,28 +1,27 @@
-# npm public feedback discussions
+UFC 286 Live: Edwards vs. Usman 3 is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take place on March 18, 2023, at The O₂ Arena in London, England,
 
-In this repository, you can find the [official npm public feedback discussions](https://github.com/npm/feedback/discussions) for every part of npm including the cli, documentation, the registry, and the website.
+🔴📺LIVE📲👉UFC 286 Live Free
 
-These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the npm product team. Check out [Making Suggestions](#making-suggestions) to learn how to provide feedback.
+UFC 268 will take place at The O2 in London, the first UFC event at The O2 since the Fight Night headlined by Blaydes vs Aspinall in July 2022.
 
-This feedback process is heavily influenced by the [official GitHub public feedback discussions](https://github.com/github/feedback). Thank you to the team who worked on that for paving the path!
+Elsewhere on the main card, former Interim Lightweight Champion Justin Gaethje fights for the first time since his defeat to Charles Oliveira at UFC 274 in May 2022. His opponent Rafael Fiziev comes into the bout off the back of a six fight win streak.
 
-## Making suggestions
+Early Preliminaries for UFC 286 will start at 7pm in the UK and will be available on UFC Fight Pass.
 
-We encourage you to [open a discussion](https://github.com/npm/feedback/discussions) if you have suggestions for how we can improve npm. You don't need to have a solution to the problem you are facing to kick off a discussion. We are hoping to foster productive and collaborative conversations, so please check out [how to give good feedback](https://github.com/npm/feedback/discussions/7) if you want some guidance on how to kick off a successful discussion.
+Proceedings will then switch over to BT Sport Box Office for the main card at 9pm. Customers can buy the fight for £19.95.
 
-Prior to making a new discussion please take a look at previous discussions to see if someone else has already brought to our attention your suggestions. If you find a similar discussion reply with additional details or react to signal your support rather than creating a new discussion.
+The main event is, of course Leon Edwards against Kamaru Usman, with the Nigerian out to reclaim the title he lost against the Englishman last August. It is the trilogy fight between the pair, with the fighters enjoying one win each.
 
-### From a suggestion to a shipped feature
+Leading up to that fight, Justin Gaethje faces off against Azerbaijan's Rafael Fiziev, with Gaethje coming off the back of a loss to Charles Oliveira, while Fiziev beat Rafael dos Anjos last time out. Conor McGregor's long-time team-mate Gunnar Nelson is on the main card too as he fights Bryan Barbarena - a man who, interestingly, lost to Dos Anjos in his last fight.
 
-Once you kick off a discussion, the npm team will do our best to make an initial response within 14 days. From there, we will work with you (and the entire community) to ensure we understand the current capabilities npm is missing and explore the space for potential solutions to your problem statement:
+Leon Edwards will defend his welterweight title against Kamaru Usman in the main event of UFC 286 this weekend, at the first UFC pay-per-view event in Britain since 2016.
 
-- If the npm team determines that we are going to prioritize a feature to solve the problem that you've identified, we will mark the discussion as answered and update it periodically on the progress of the feature. 
-- If the npm team determines not to pursue the problem that you have identified, we will mark the discussion as answered and will respond with our reasoning so our decisions can remain transparent.
+March and July 2022 saw hugely successful Fight Nights take place at London’s O2 Arena, before British MMA had another growth spurt when Edwards knocked out Usman in dramatic fashion in August to become the nation’s second ever UFC champion.
 
-### npm CLI changes and the RFC (Request for Comment) process
+Now Edwards makes his first defence of the title, taking on Usman – who outpointed him in 2015 – for a third time. The pair will headline at the O2 Arena as the Jamaican-born champion looks to build upon his stunning, late finish of his old rival.
 
-The majority of feature requests for changes to the npm CLI will be directed towards [the npm CLI RFC process](https://github.com/npm/rfcs). Often it may make sense to simply open a [RRFC](https://github.com/npm/rfcs/issues/new?assignees=&labels=&template=rrfc.md&title=%5BRRFC%5D+%3Ctitle%3E) rather than a discussion in this repostiory.
+In the co-main event, former lightweight title challenger Justin Gaethje takes on rising contender Rafael Fiziev.
 
-## Disclaimer 
+UFC 286 takes place at the O2 Arena in London on Saturday 18 March.
 
-Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to GitHub as of the date they are made, and GitHub assumes no obligation to update any forward-looking statements. The forward-looking comments in the public feedback discussions do not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and is intended to outline the general development plans. Customers should not rely on these public feedback discussions to make any purchasing decision.
+The early prelims will begin at 5pm GMT (9am PT, 11am CT, 12pm ET), with the prelims following at 7pm GMT (11am PT, 1pm CT, 2pm ET). The main card is then scheduled to start at 9pm (1pm PT, 3pm CT, 4pm ET).
