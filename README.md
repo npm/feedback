@@ -14,7 +14,7 @@ Prior to making a new discussion please take a look at previous discussions to s
 
 ### From a suggestion to a shipped feature
 
-Once you kick off a discussion, the npm team will do our best to make an initial response within 14 days. From there, we will work with you (and the entire community) to ensure we understand the current capabilities npm is missing and explore the space for potential solutions to your problem statement:
+Once you kick off a discussion, the npm product team will evaluate the feedback but will not be able to respond to every submission.. From there, we will work with you (and the entire community) to ensure we understand the current capabilities npm is missing and explore the space for potential solutions to your problem statement:
 
 - If the npm team determines that we are going to prioritize a feature to solve the problem that you've identified, we will mark the discussion as answered and update it periodically on the progress of the feature. 
 - If the npm team determines not to pursue the problem that you have identified, we will mark the discussion as answered and will respond with our reasoning so our decisions can remain transparent.
